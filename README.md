@@ -84,7 +84,7 @@ After completing these courses I intend to act as a:
 
 💻🖥   Back-end Junior developer
 
-⌨️📺  front-end Júnior developer 
+📺  front-end Júnior developer 
 
 
 
