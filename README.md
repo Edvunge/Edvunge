@@ -1,11 +1,22 @@
+# Hi friends &#x1F44B;
+<a href="url"><img src="https://user-images.githubusercontent.com/53275378/123695165-21262d00-d852-11eb-91aa-8f00113f7ecf.png" align="left" height="300" width="800" ></a><br>
+
+<br><br><br><br><br><br><br><br><br><br><br><br><br>
+<!--
+  ![image](https://user-images.githubusercontent.com/53275378/123695165-21262d00-d852-11eb-91aa-8f00113f7ecf.png)
+
+
+<br><br><br> 
+
 # Hi friends              ![image](https://user-images.githubusercontent.com/53275378/123688364-cee10e00-d849-11eb-875a-89c1e94035e7.png)
-
-
+-->
 #tranquilo como um grilo 🦗 manso como um ganso.! <br><br><br>
 My name is edvaldo Vunge, I’m from Angola 🇦🇴, computer engineering student, <br>
 at the lusófona university of humanities and technologies in lisbon,
 <br>TECHNICAL KNOWLEDGE: Agile, Bootstrap, C, CSS, Noçōes Gerais C++ , HTML, Java, Javascript, JSON,
 <br><br>
+
+
 
 
 # TECHNICAL KNOWLEDGE 🤖
@@ -64,16 +75,16 @@ which is the first and only Angolan Java programmers community
 
 <br>
 
-# Professional outlets &#x1F468;
+# Professional outlets &#x1F468; 
 
 <br>
 After completing these courses I intend to act as a: 
 
-⌨️📺Junior fullstack developer or 
+⌨️📺  Junior fullstack developer or 
 
-💻🖥Back-end Junior developer
+💻🖥   Back-end Junior developer
 
-⌨️📺 front-end Júnior developer 
+⌨️📺  front-end Júnior developer 
 
 
 
@@ -93,3 +104,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
