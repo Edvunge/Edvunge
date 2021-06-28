@@ -1,4 +1,5 @@
-### Hi there 👋
+# Hi friends               ![image](https://user-images.githubusercontent.com/53275378/123672929-cda6e580-d837-11eb-8e45-84c1ed2f49eb.png)
+
 
 <!--
 **Edvunge/Edvunge** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +15,75 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+My name is edvaldo Vunge, I’m from Angola 🇦🇴, computer engineering student, <br>
+at the lusófona university of humanities and technologies in lisbon,
+<br>TECHNICAL KNOWLEDGE: Agile, Bootstrap, C, CSS, Noçōes Gerais C++ , HTML, Java, Javascript, JSON,
+<br><br>
+📍From Angola 🇦🇴 living in Lisboa, Portugal 🇵🇹 <br>
+I am Java ☕️lover ❤️<br>
+and two more friends @Inacio Manuel at @pedro felix are founders of Angolan Java Code.<br> 
+which is the first and only Angolan Java programmers community: 
+
+<br> i am currently attending the following courses: <br>
+
+
+Especializado Back-end – FLAG - Rumos, Formação e Serviços em Tecnologias de Informação
+  - MongoDB 
+  - NodeJS 
+  - PostgresSQL 
+  - React 
+  - Service Now 
+  - SQL Server
+  - Git 
+  - Estruturas de Dados 
+  - MySQL 
+  - PHP 
+  - Laravel 
+  - Criação de REST API'S
+  - ExpressJS 
+  - NativeScript.
+
+Desenvolvedor FullStack - Hiring Coders da Gama Academy & VTEX
+  - Front-End(html5, css3, JavaScript, bootstrap, React)
+  - Back-End(nodeJS, typeScript)
+  - Metodologia Ágil, GraphQI
+
+Programa Jovem Digital - Programação Web – CINEL
+- Engenharia de software
+- Programação Algoritmos
+- Programação em C/C++ - fundamentos
+- Fundamentos da linguagem SQL
+- Metodologias de desenvolvimento de software
+- Projeto de programação
+- Programação para a WEB - cliente (client-side)
+- Programação de scripts
+- Programação de aplicações e sítios web dinâmicos
+- Projecto de tecnologias e programação de sistemas de informação
+
+Programação de sistemas distribuídos JAVA - CITEFORMA
+  - Conceitos básicos e plataforma Java
+  - Aplicações gráficas em Java
+
+
+#tranquilo como um grilo 🦗 manso como um ganso.! 
+
+<br><br><br>
+
+reach me out<br>
+[![facebook Badge](https://img.shields.io/badge/-facebook-blue?style=flat-square&labelColor=blue&logo=facebook&logoColor=white&link=https://www.youtube.com/channel/UCRhKK6VrISnIWPJjYxBPKnA/videos)](https://pt-br.facebook.com/edvaldo.vunge.1) [![Gmail Badge](https://img.shields.io/badge/-edvaldolaurentina07@hotmail.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:edvaldolaurentina07@hotmail.com)](mailto:edvaldolaurentina07@hotmail.com) [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/isadora-rodrigues-stangarlin-48402b141/)](https://www.linkedin.com/in/edvaldo-vunge-3b7490163/) 
+ 
+
+
+
+<br><br><br>
+after completing these courses I intend to act as a: 
+
+⌨️📺Junior fullstack developer or 
+
+💻🖥Back-end Junior developer
+
+⌨️📺 front-end Júnior developer 
+
+
+
+![image](https://user-images.githubusercontent.com/53275378/123673253-2bd3c880-d838-11eb-84ff-c9b762092bca.png)
