@@ -1,31 +1,16 @@
-# Hi friends               ![image](https://user-images.githubusercontent.com/53275378/123672929-cda6e580-d837-11eb-8e45-84c1ed2f49eb.png)
+# Hi friends              ![image](https://user-images.githubusercontent.com/53275378/123688364-cee10e00-d849-11eb-875a-89c1e94035e7.png)
 
 
-<!--
-**Edvunge/Edvunge** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#tranquilo como um grilo 🦗 manso como um ganso.! 
 My name is edvaldo Vunge, I’m from Angola 🇦🇴, computer engineering student, <br>
 at the lusófona university of humanities and technologies in lisbon,
 <br>TECHNICAL KNOWLEDGE: Agile, Bootstrap, C, CSS, Noçōes Gerais C++ , HTML, Java, Javascript, JSON,
 <br><br>
-📍From Angola 🇦🇴 living in Lisboa, Portugal 🇵🇹 <br>
-I am Java ☕️lover ❤️<br>
-and two more friends @Inacio Manuel at @pedro felix are founders of Angolan Java Code.<br> 
-which is the first and only Angolan Java programmers community: 
 
-<br> i am currently attending the following courses: <br>
 
+# TECHNICAL KNOWLEDGE 🤖
+
+<br> I am currently attending the following courses: <br>
 
 Especializado Back-end – FLAG - Rumos, Formação e Serviços em Tecnologias de Informação
   - MongoDB 
@@ -64,19 +49,25 @@ Programação de sistemas distribuídos JAVA - CITEFORMA
   - Conceitos básicos e plataforma Java
   - Aplicações gráficas em Java
 
+<br>
 
-#tranquilo como um grilo 🦗 manso como um ganso.! 
-
-<br><br><br>
-
-reach me out<br>
+Reach me out<br>
 [![facebook Badge](https://img.shields.io/badge/-facebook-blue?style=flat-square&labelColor=blue&logo=facebook&logoColor=white&link=https://www.youtube.com/channel/UCRhKK6VrISnIWPJjYxBPKnA/videos)](https://pt-br.facebook.com/edvaldo.vunge.1) [![Gmail Badge](https://img.shields.io/badge/-edvaldolaurentina07@hotmail.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:edvaldolaurentina07@hotmail.com)](mailto:edvaldolaurentina07@hotmail.com) [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/isadora-rodrigues-stangarlin-48402b141/)](https://www.linkedin.com/in/edvaldo-vunge-3b7490163/) 
  
+# My projects 🦾
+
+📍From Angola 🇦🇴 living in Lisboa, Portugal 🇵🇹 <br>
+I am Java ☕️lover ❤️<br>
+and two more friends @Inacio Manuel at @pedro felix are founders of Angolan Java Code.<br> 
+which is the first and only Angolan Java programmers community
 
 
+<br>
 
-<br><br><br>
-after completing these courses I intend to act as a: 
+# Professional outlets &#x1F468;
+
+<br>
+After completing these courses I intend to act as a: 
 
 ⌨️📺Junior fullstack developer or 
 
@@ -87,3 +78,18 @@ after completing these courses I intend to act as a:
 
 
 ![image](https://user-images.githubusercontent.com/53275378/123673253-2bd3c880-d838-11eb-84ff-c9b762092bca.png)
+
+<!--
+**Edvunge/Edvunge** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
