@@ -1,7 +1,7 @@
 # Hi friends              ![image](https://user-images.githubusercontent.com/53275378/123688364-cee10e00-d849-11eb-875a-89c1e94035e7.png)
 
 
-#tranquilo como um grilo 🦗 manso como um ganso.! 
+#tranquilo como um grilo 🦗 manso como um ganso.! <br>
 My name is edvaldo Vunge, I’m from Angola 🇦🇴, computer engineering student, <br>
 at the lusófona university of humanities and technologies in lisbon,
 <br>TECHNICAL KNOWLEDGE: Agile, Bootstrap, C, CSS, Noçōes Gerais C++ , HTML, Java, Javascript, JSON,
