@@ -21,7 +21,30 @@ at the lusófona university of humanities and technologies in lisbon,
 
 # TECHNICAL KNOWLEDGE 🤖
 
-<br> I am currently attending the following courses: <br>
+<br> ** I am currently attending the following course:  **  <br>
+
+<h2> Bootcamp Upgrade Hub - Back-End Developer </h2>
+
+**Weekly program**
+
+- Transversal- Git & GitFlow
+
+- Week 1: Java basics and database + Spring Boot basics
+
+- Week 2: Spring Boot basics
+
+- Week 3: Spring Boot SQL/Mongo-Cocker
+
+- Week 4: Spring Boot Microservices- Docker
+
+
+<br>
+<br>
+<br>
+<br>
+<h4>course not finished yet</h4>
+
+
 
 Especializado Back-end – FLAG - Rumos, Formação e Serviços em Tecnologias de Informação
   - MongoDB 
@@ -38,13 +61,17 @@ Especializado Back-end – FLAG - Rumos, Formação e Serviços em Tecnologias d
   - Criação de REST API'S
   - ExpressJS 
   - NativeScript.
-
-Desenvolvedor FullStack - Hiring Coders da Gama Academy & VTEX
+<br>
+<br>
+<br>
+<br>
+<h4> completed course </h4>
+Desenvolvedor FullStack - Hiring Coders da Gama Academy & VTEX <h4> completed course </h4>
   - Front-End(html5, css3, JavaScript, bootstrap, React)
   - Back-End(nodeJS, typeScript)
   - Metodologia Ágil, GraphQI
 
-Programa Jovem Digital - Programação Web – CINEL
+Programa Jovem Digital - Programação Web – CINEL 
 - Engenharia de software
 - Programação Algoritmos
 - Programação em C/C++ - fundamentos
@@ -55,7 +82,11 @@ Programa Jovem Digital - Programação Web – CINEL
 - Programação de scripts
 - Programação de aplicações e sítios web dinâmicos
 - Projecto de tecnologias e programação de sistemas de informação
-
+<br>
+<br>
+<br>
+<br>
+<h4> completed course </h4>
 Programação de sistemas distribuídos JAVA - CITEFORMA
   - Conceitos básicos e plataforma Java
   - Aplicações gráficas em Java
