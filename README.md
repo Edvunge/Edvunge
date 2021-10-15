@@ -111,11 +111,11 @@ which is the first and only Angolan Java programmers community
 <br>
 After completing these courses I intend to act as a: 
 
-⌨️📺  Junior fullstack developer or 
+⌨️📺   Junior fullstack developer or 
 
-💻🖥   Back-end Junior developer
+💻🖥    Back-end Junior developer
 
-📺  front-end Júnior developer 
+📺      Java Júnior developer 
 
 
 
