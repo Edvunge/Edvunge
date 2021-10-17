@@ -60,7 +60,7 @@ Especializado Back-end – FLAG - Rumos, Formação e Serviços em Tecnologias d
   - Laravel 
   - Criação de REST API'S
   - ExpressJS 
-  - NativeScript.
+  
 <br>
 <br>
 <br>
