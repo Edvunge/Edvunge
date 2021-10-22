@@ -1,96 +1,49 @@
+
 # Hi friends &#x1F44B;
-<a href="url"><img src="https://user-images.githubusercontent.com/53275378/123695165-21262d00-d852-11eb-91aa-8f00113f7ecf.png" align="left" height="300" width="800" ></a><br>
-
-<br><br><br><br><br><br><br><br><br><br><br><br><br>
-<!--
-  ![image](https://user-images.githubusercontent.com/53275378/123695165-21262d00-d852-11eb-91aa-8f00113f7ecf.png)
 
 
-<br><br><br> 
 
-# Hi friends              ![image](https://user-images.githubusercontent.com/53275378/123688364-cee10e00-d849-11eb-875a-89c1e94035e7.png)
--->
+<div>
 #Tranquilo como um grilo 🦗 manso como um ganso.! <br><br><br>
-My name is edvaldo Vunge, I’m from Angola 🇦🇴, I am computer engineering student, <br>
+My name is <i><strong>edvaldo Vunge</strong></i>, I’m from Angola, I am computer engineering student, <br>
 at the lusófona university of humanities and technologies in lisbon,
-<br>TECHNICAL KNOWLEDGE: Agile, Bootstrap, C, CSS, Noçōes Gerais C++ , HTML, Java, Javascript, JSON,
+<br></div>
 <br><br>
+   <br><br>
+   <br><br>
+
+
+<div align="center">
+  <a href="https://github.com/rafaballerini">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Edvunge&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Edvunge&layout=compact&langs_count=7&theme=dark"/>
+</div>
+
+<br><br>
+   <br><br>
+   <br><br>
 
 
 
 
 # TECHNICAL KNOWLEDGE 🤖
 
-<br> ** I am currently attending the following course:  **  <br>
 
-<h2> Bootcamp Upgrade Hub - Back-End Developer </h2>
+   
 
-**Weekly program**
-
-- Transversal- Git & GitFlow
-
-- Week 1: Java basics and database + Spring Boot basics
-
-- Week 2: Spring Boot basics
-
-- Week 3: Spring Boot SQL/Mongo-Cocker
-
-- Week 4: Spring Boot Microservices- Docker
-
-
-<br>
-<br>
-<br>
-<br>
-<h4>course not finished yet</h4>
-
-
-
-Especializado Back-end – FLAG - Rumos, Formação e Serviços em Tecnologias de Informação
-  - MongoDB 
-  - NodeJS 
-  - PostgresSQL 
-  - React 
-  - Service Now 
-  - SQL Server
-  - Git 
-  - Estruturas de Dados 
-  - MySQL 
-  - PHP 
-  - Laravel 
-  - Criação de REST API'S
-  - ExpressJS 
+<div style="display: inline_block"><br>
+  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
+  <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+  <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   
+</div>
+ 
 <br>
 <br>
-<br>
-<br>
-<h4> completed course </h4>
-Desenvolvedor FullStack - Hiring Coders da Gama Academy & VTEX <h4> completed course </h4>
-  - Front-End(html5, css3, JavaScript, bootstrap, React)
-  - Back-End(nodeJS, typeScript)
-  - Metodologia Ágil, GraphQI
-
-Programa Jovem Digital - Programação Web – CINEL 
-- Engenharia de software
-- Programação Algoritmos
-- Programação em C/C++ - fundamentos
-- Fundamentos da linguagem SQL
-- Metodologias de desenvolvimento de software
-- Projeto de programação
-- Programação para a WEB - cliente (client-side)
-- Programação de scripts
-- Programação de aplicações e sítios web dinâmicos
-- Projecto de tecnologias e programação de sistemas de informação
-
-<br>
-<br>
-<br>
-<h4> completed course </h4>
-Programação de sistemas distribuídos JAVA - CITEFORMA
-  - Conceitos básicos e plataforma Java
-  - Aplicações gráficas em Java
-
 <br>
 
 Reach me out<br>
