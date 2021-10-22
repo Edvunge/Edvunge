@@ -17,6 +17,9 @@ at the lusófona university of humanities and technologies in lisbon,
   <a href="https://github.com/rafaballerini">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Edvunge&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Edvunge&layout=compact&langs_count=7&theme=dark"/>
+
+  
+     
 </div>
 
 <br><br>
@@ -47,9 +50,26 @@ at the lusófona university of humanities and technologies in lisbon,
 <br>
 <br>
 
-Reach me out<br>
-[![facebook Badge](https://img.shields.io/badge/-facebook-blue?style=flat-square&labelColor=blue&logo=facebook&logoColor=white&link=https://www.youtube.com/channel/UCRhKK6VrISnIWPJjYxBPKnA/videos)](https://pt-br.facebook.com/edvaldo.vunge.1) [![Gmail Badge](https://img.shields.io/badge/-edvaldolaurentina07@hotmail.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:edvaldolaurentina07@hotmail.com)](mailto:edvaldolaurentina07@hotmail.com) [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/isadora-rodrigues-stangarlin-48402b141/)](https://www.linkedin.com/in/edvaldo-vunge-3b7490163/) 
- 
+# Reach me out<br>
+   
+[![facebook Badge](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://pt-br.facebook.com/edvaldo.vunge.1) 
+[![Gmail Badge](https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white
+)](mailto:edvunge@protonmail.com) 
+   [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/edvaldo-vunge-3b7490163/) 
+ [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white
+)](mailto:edvunge@protonmail.com) 
+   
+
+   
+    [! [] () ] () 
+
+ [! [] () ] () 
+https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white
+ [! [] () ] () 
+https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white
+
+   
+   
 # My projects 🦾
 
 📍From Angola 🇦🇴 living in Lisboa, Portugal 🇵🇹 <br>
