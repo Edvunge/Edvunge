@@ -61,12 +61,6 @@ at the lusófona university of humanities and technologies in lisbon,
    
 
    
-    [! [] () ] () 
-
- [! [] () ] () 
-https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white
- [! [] () ] () 
-https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white
 
    
    
