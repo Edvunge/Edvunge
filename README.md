@@ -1,6 +1,11 @@
 
 # Hi friends &#x1F44B;
 
+<div><br><br>
+   <br>I have just completed the Upgrade-Hub Java Backend bootcamp,<br>  and since completing the bootcamp I joined INDRA as a Junior System Engineer working daily with java<br> specifically springBoot , I am very happy and willing to solve challenges and achieve goals.<br>  I look forward to learning more and more and contributing my code to everyone's study.<br> 
+always focused on optimizing processes, without compromising the final quality. <br> 
+I am passionate about learning and extremely curious.<br> 
+</div>   
 
 
 <div>
@@ -74,17 +79,29 @@ which is the first and only Angolan Java programmers community
 
 <br>
 
-# Professional outlets &#x1F468; 
+# More about me &#x1F468; 
 
 <br>
-After completing these courses I intend to act as a: 
-
-⌨️📺   Junior fullstack developer or 
-
-💻🖥    Back-end Junior developer
-
-📺      Java Júnior developer 
-
+ 🔭 I’m currently working on springBoot ecosystem
+   <br>
+ 🌱 I’m currently learning everybody <strong> JAVA </strong>
+      <br>
+ 👯 if you are looking for a collaborator for any project send me a message 
+   <br>
+  🤔 I'm looking for help with my Angolan java programmers community 
+   <br>
+- i like to play chess 
+   <br>
+- I'm a scout and I live like a
+   <br>
+- I really enjoy watching harry potter, prison break, naruto, dead note, and so on.
+   <br>
+- and i'm really a big fan of mickey, tom and jerry mouse, dragon ball
+   <br>
+- and my girlfriend says I'm a nerd, but I'm not
+   <br>
+ 💬 let's talk, let's exchange ideas.
+   <br>
 
 
 ![image](https://user-images.githubusercontent.com/53275378/123673253-2bd3c880-d838-11eb-84ff-c9b762092bca.png)
