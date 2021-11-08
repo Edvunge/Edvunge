@@ -84,23 +84,23 @@ which is the first and only Angolan Java programmers community
 <br>
  🔭 I’m currently working on springBoot ecosystem
    <br>
- 🌱 I’m currently learning everybody <strong> JAVA </strong>
+ 🌱  I’m currently learning everybody <strong> JAVA </strong>
       <br>
- 👯 if you are looking for a collaborator for any project send me a message 
+ 👯  if you are looking for a collaborator for any project send me a message 
    <br>
-  🤔 I'm looking for help with my Angolan java programmers community 
+  🤔  I'm looking for help with my Angolan java programmers community 
    <br>
-- i like to play chess 
+♟️  i like to play chess 
    <br>
-- I'm a scout and I live like a
+⚜️  I'm a scout and I live like a
    <br>
-- I really enjoy watching harry potter, prison break, naruto, dead note, and so on.
+🎬  I really enjoy watching harry potter, prison break, naruto, dead note, and so on.
    <br>
-- and i'm really a big fan of mickey, tom and jerry mouse, dragon ball
+🫠  and i'm really a big fan of mickey, tom and jerry mouse, dragon ball
    <br>
-- and my girlfriend says I'm a nerd, but I'm not
+😬 and my girlfriend says I'm a nerd, but I'm not
    <br>
- 💬 let's talk, let's exchange ideas.
+ 💬  let's talk, let's exchange ideas.
    <br>
 
 
