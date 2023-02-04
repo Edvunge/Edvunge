@@ -1,11 +1,19 @@
 
 # Hi friends &#x1F44B;
 
-<div><br><br>
-   <br>I have just completed the Upgrade-Hub Java Backend bootcamp,<br>  and since completing the bootcamp I joined INDRA as a Junior System Engineer working daily with java<br> specifically springBoot , I am very happy and willing to solve challenges and achieve goals.<br>  I look forward to learning more and more and contributing my code to everyone's study.<br> 
-always focused on optimizing processes, without compromising the final quality. <br> 
+<div>
+<br>     <br> Hi, 👋 I'm Edvaldo Vunge Junior Full-Stack Student, I'm a very resilient person, I really like challenges,<br> 
+I worked for 5 months at INDRA.PT as a Junior System Engineer working daily with java,<br> 
+I recently finished the bytes4future bootcamp which allowed<br>  
+me to broaden my range of knowledge and build my foundations as a Junior Full-Stack Student,<br>  
+Now i'm a software engineering Trainee at Capgemini and i work with cobol, <br> 
+i'm really excited about this new stage of my career<br> 
+<br>
+ <br>
+I look forward to learning more and more and contributing my code to everyone's study.<br> 
+always focusing on process optimization, without compromising final quality.<br> 
 I am passionate about learning and extremely curious.<br> 
-</div>   
+  
 
 
 <div>
