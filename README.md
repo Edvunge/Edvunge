@@ -2,12 +2,22 @@
 # Hi friends &#x1F44B;
 
 <div>
-<br>     <br> Hi, 👋 I'm Edvaldo Vunge Junior Full-Stack Student, I'm a very resilient person, I really like challenges,<br> 
-I worked for 5 months at INDRA.PT as a Junior System Engineer working daily with java,<br> 
-I recently finished the bytes4future bootcamp which allowed<br>  
-me to broaden my range of knowledge and build my foundations as a Junior Full-Stack Student,<br>  
-Now i'm a software engineering Trainee at Capgemini and i work with cobol, <br> 
-i'm really excited about this new stage of my career<br> 
+<br>     <br> Hi, 👋 My name is Edvaldo Vunge, <br>
+ I am a highly motivated person who is not afraid to face challenges and I work with dedication to achieve my goals. <br>
+I had a previous experience as a junior systems engineer at INDRA.PT, currently interning at Capgemini as a software engineer,<br>
+I am always continually looking for new opportunities to expand my knowledge and skills.<br>
+<br>
+ <br>
+My passion for learning and my curiosity are important attributes that help me adapt to new situations and face challenges with confidence.<br>
+I took several programming courses, such as the Advanced Bootcamp by Bytes4Future focused on Javascript and the Backend Bootcamp in Java by Upgrade Hub,<br>
+show that I am always looking to broaden my horizons in the field of technology.<br>
+
+Being from Angola and a computer engineering student at the Universidade Lusófona de Humanidades e <br>
+ Tecnologias in Lisbon, I am immersed in a diverse academic culture and have the opportunity to interact with people from different backgrounds and perspectives.<br>
+
+In summary, I am a resilient, dedicated, <br>
+ curious person and always looking for new challenges and learning opportunities in the technology field.<br>
+
 <br>
  <br>
 I look forward to learning more and more and contributing my code to everyone's study.<br> 
