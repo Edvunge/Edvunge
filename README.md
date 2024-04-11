@@ -89,6 +89,13 @@ at the lusófona university of humanities and technologies in lisbon,
    
 # My projects 🦾
 
+### carreiraIT <br>
+Um Site de Busca de emprego, Análise de cv, Perfil direcionado<br>
+com<br>  
+BACK-END: JAVA<br>
+FRONT-END: REACTjs<br>
+
+### Angolan JAVA Code
 📍From Angola 🇦🇴 living in Lisboa, Portugal 🇵🇹 <br>
 I am Java ☕️lover ❤️<br>
 and two more friends @Inacio Manuel at @pedro felix are founders of Angolan Java Code.<br> 
