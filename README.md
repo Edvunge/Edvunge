@@ -2,21 +2,21 @@
 # Hi friends &#x1F44B;
 
 <div>
-<br>     <br> Hi, 👋 My name is Edvaldo Vunge, <br>
- I am a highly motivated person who is not afraid to face challenges and I work with dedication to achieve my goals. <br>
-I had a previous experience as a junior systems engineer at INDRA.PT, currently interning at Capgemini as a software engineer,<br>
-I am always continually looking for new opportunities to expand my knowledge and skills.<br>
+<br>     
+<br>Hello, 👋 I'm Edvaldo Vunge,<br> a technology <strong>enthusiast</strong> and <strong>full-stack software developer</strong>, 
+ currently dedicated to application development through my own company, <strong>ECV APPS</strong>. 
+ I have experience in creating web and mobile solutions focused on quality and process optimization.<br>
 <br>
  <br>
-My passion for learning and my curiosity are important attributes that help me adapt to new situations and face challenges with confidence.<br>
-I took several programming courses, such as the Advanced Bootcamp by Bytes4Future focused on Javascript and the Backend Bootcamp in Java by Upgrade Hub,<br>
-show that I am always looking to broaden my horizons in the field of technology.<br>
+I'm currently focused on obtaining the <strong>Certified Java Programmer certification</strong> in order to 
+ deepen my knowledge of the <strong>Java language</strong> and expand my work in the development sector. At the same time, 
+ I'm studying Computer Engineering at the Open University and Computer Science at the University of the People, 
+ where I'm broadening my theoretical and practical base in cutting-edge technologies.<br>
 
-Being from Angola and a computer engineering student at the Universidade Lusófona de Humanidades e <br>
- Tecnologias in Lisbon, I am immersed in a diverse academic culture and have the opportunity to interact with people from different backgrounds and perspectives.<br>
+<br> My journey has included enriching experiences, such as my internship at Capgemini, 
+ where I gained a comprehensive insight into the workings of the banking sector and the development of solutions for the financial market.<br>
 
-In summary, I am a resilient, dedicated, <br>
- curious person and always looking for new challenges and learning opportunities in the technology field.<br>
+<br>With a resilient <strong>mindset</strong> and relentless curiosity, I'm always looking for new challenges and opportunities to expand my skills and impact the technology sector.<br>
 
 <br>
  <br>
@@ -28,9 +28,6 @@ I am passionate about learning and extremely curious.<br>
 
 <div>
 #Tranquilo como um grilo 🦗 manso como um ganso.! <br><br><br>
-My name is <i><strong>edvaldo Vunge</strong></i>, I’m from Angola, I am computer engineering student, <br>
-at the lusófona university of humanities and technologies in lisbon,
-<br></div>
 <br><br>
    <br><br>
    <br><br>
