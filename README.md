@@ -1,145 +1,25 @@
 
-# Hi friends &#x1F44B;
+## 🌐 Socials:
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/Edvaldo Vunge) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Edvaldo Vunge) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/edvaldo-vunge/) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@Edvaldo Vunge) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@Edvaldo Vunge) 
 
-<div>
-<br>     
-<br>Hello, 👋 I'm Edvaldo Vunge,<br> a technology <strong>enthusiast</strong> and <strong>full-stack software developer</strong>, 
- currently dedicated to application development through my own company, <strong>ECV APPS</strong>. 
- I have experience in creating web and mobile solutions focused on quality and process optimization.<br>
-<br>
- <br>
-I'm currently focused on obtaining the <strong>Certified Java Programmer certification</strong> in order to 
- deepen my knowledge of the <strong>Java language</strong> and expand my work in the development sector. At the same time, 
- I'm studying Computer Engineering at the Open University and Computer Science at the University of the People, 
- where I'm broadening my theoretical and practical base in cutting-edge technologies.<br>
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=for-the-badge&logo=digitalOcean&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Edvunge&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Edvunge&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Edvunge&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-<br> My journey has included enriching experiences, such as my internship at Capgemini, 
- where I gained a comprehensive insight into the workings of the banking sector and the development of solutions for the financial market.<br>
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Edvunge&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-<br>With a resilient <strong>mindset</strong> and relentless curiosity, I'm always looking for new challenges and opportunities to expand my skills and impact the technology sector.<br>
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
-<br>
- <br>
-I look forward to learning more and more and contributing my code to everyone's study.<br> 
-always focusing on process optimization, without compromising final quality.<br> 
-I am passionate about learning and extremely curious.<br> 
-  
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=Edvunge&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
+---
+[![](https://visitcount.itsvg.in/api?id=Edvunge&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<div>
-#Tranquilo como um grilo 🦗 manso como um ganso.! <br><br><br>
-<br><br>
-   <br><br>
-   <br><br>
-
-
-<div align="center">
-  <a href="https://github.com/Edvunge">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Edvunge&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Edvunge&layout=compact&langs_count=7&theme=dark"/>
-
-  
-     
-</div>
-
-<br><br>
-   <br><br>
-   <br><br>
-
-
-
-
-# TECHNICAL KNOWLEDGE 🤖
-
-
-<div style="display: inline_block"><br>
-  <img align="center" alt="Edvunge-Jv" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
-  <img align="center" alt="Edvunge-C" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
-  <img align="center" alt="Edvunge-jar" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg">
-  <img align="center" alt="Edvunge-HTML" height="60" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Edvunge-CSS" height="60" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Edvunge-git" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg">
-  <img align="center" alt="Edvunge-mt" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg">
-  <img align="center" alt="Edvunge-mdb" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg">
-  <img align="center" alt="Edvunge-vsc" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg">
-  <img align="center" alt="Edvunge-ms" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">
-  <img align="center" alt="Edvunge-js" height="60" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-</div>
-
-<br>
-<br>
-<br>
-
-# Reach me out<br>
-   
-[![facebook Badge](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://pt-br.facebook.com/edvaldo.vunge.1) 
-[![Gmail Badge](https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white
-)](mailto:edvunge@protonmail.com) 
-   [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/edvaldo-vunge-3b7490163/) 
- [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white
-)](mailto:edvunge@protonmail.com) 
-   
-
-   
-
-   
-   
-# My projects 🦾
-
-### carreiraIT <br>
-Um Site de Busca de emprego, Análise de cv, Perfil direcionado<br>
-com<br>  
-BACK-END: JAVA<br>
-FRONT-END: REACTjs<br>
-
-### Angolan JAVA Code
-📍From Angola 🇦🇴 living in Lisboa, Portugal 🇵🇹 <br>
-I am Java ☕️lover ❤️<br>
-and two more friends @Inacio Manuel at @pedro felix are founders of Angolan Java Code.<br> 
-which is the first and only Angolan Java programmers community
-
-
-<br>
-
-# More about me &#x1F468; 
-
-<br>
- 🔭 I’m currently working on springBoot ecosystem
-   <br>
- 🌱  I’m currently learning everybody <strong> JAVA </strong>
-      <br>
- 👯  if you are looking for a collaborator for any project send me a message 
-   <br>
-  🤔  I'm looking for help with my Angolan java programmers community 
-   <br>
-♟️  i like to play chess 
-   <br>
-⚜️  I'm a scout and I live like a
-   <br>
-🎬  I really enjoy watching harry potter, prison break, naruto, dead note, and so on.
-   <br>
-🫠  and i'm really a big fan of mickey, tom and jerry mouse, dragon ball
-   <br>
-😬 and my girlfriend says I'm a nerd, but I'm not
-   <br>
- 💬  let's talk, let's exchange ideas.
-   <br>
-
-
-![image](https://user-images.githubusercontent.com/53275378/123673253-2bd3c880-d838-11eb-84ff-c9b762092bca.png)
-
-<!--
-**Edvunge/Edvunge** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
